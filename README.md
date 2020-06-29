@@ -1,3 +1,3 @@
 # Project_Data_Warehousing
-Dimensional Modelling; Data Integration
+Dimensional Modelling; Data Integration\
 Tool: Pentaho; MySQL
