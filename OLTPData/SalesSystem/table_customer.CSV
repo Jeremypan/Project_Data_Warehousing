@@ -1,0 +1,72 @@
+Cust ID,Name,Address,Suburb,City,Postcode,MarketID,Period,Market Description,CustomerCode
+1,Zelas Wines,"Archway Road,London?,London? N6 5AX",London?,London?,N6 5AX,Int,Feb 2019,International,1
+2,Oz Wines,"Little St.,Richmond,Melbourne 3121",Richmond,Melbourne,3121,Vic,Feb 2019,Victoria,2
+4,The Sussex Wine Company,"Birdham Road,Chichester,West Sussex PO20 7DU",Chichester,West Sussex,PO20 7DU,Int,Feb 2019,International,3
+5,Merchant's Lair?,"Nepean Highway,Mentone,Melbourne 3194",Mentone,Melbourne,3194,Vic,Feb 2019,Victoria,4
+6,Australia Wines Direct,"High St.,Stourbridge,West Midlands DY8 1TA",Stourbridge,West Midlands,DY8 1TA,Int,Feb 2019,International,5
+7,Prestige Wines,"Lygon St.,Carlton,Melbourne 3053",Carlton,Melbourne,3053,Vic,Feb 2019,Victoria,6
+10,La Cantina at Mercato,"Lower North East Rd,Campbelltown,Adelaide 5074",Campbelltown,Adelaide,5074,Aus,Feb 2019,Rest of Australia,7
+11,T & A Wines,"Station Way,Brandon,Suffolk? IP27 0BH",Brandon,Suffolk?,IP27 0BH,Int,Feb 2019,International,8
+12,Acme Wine Imports,"High St,Fullham,London SW1A 1LZ",Fullham,London,SW1A 1LZ,Int,Feb 2019,International,9
+13,The Wine Rep,"Smith St.,Collingwood,Melbourne 3066",Collingwood,Melbourne,3066,Vic,Feb 2019,Victoria,10
+14,Gangemis Fine Wine and Foods,"Hay Street,West Perth,Perth 6005",West Perth,Perth,6005,Aus,Feb 2019,Rest of Australia,11
+15,Aussie Boutique Wines,"Springvale Rd.,Springvale South,Melbourne 3172",Springvale South,Melbourne,3172,Vic,Feb 2019,Victoria,12
+16,Armadale Cellars?,"High Street,Armadale,Melbourne 3143",Armadale,Melbourne,3143,Vic,Feb 2019,Victoria,13
+17,Dande Upmarket Wines,"Pikkles St.,Dandenong,Melbourne 3175",Dandenong,Melbourne,3175,Vic,Feb 2019,Victoria,14
+18,Family Wines Direct?,"Miamup Road,Cowaramup,Perth 6284",Cowaramup,Perth,6284,Aus,Feb 2019,Rest of Australia,15
+19,Fine Wine Merchant?,"Mount Eliza Way,Mt Eliza,Melbourne 3930",Mt Eliza,Melbourne,3930,Vic,Feb 2019,Victoria,16
+3,London Wines,"King St.,London?,London? SW1A 1LZ",London?,London?,SW1A 1LZ,Int,Feb 2019,International,17
+9,Justerini & Brooks,"The Strand,London?,London? SW1A 1LZ",London?,London?,SW1A 1LZ,Int,Feb 2019,International,18
+8,The Wine Club,"James St,Nth. Melb,Melbourne 3051",Nth. Melb,Melbourne,3051,Vic,Feb 2019,Victoria,19
+20,The Wine Room,"Tankerton Road,Whitstable?,Whitstable? CT5 2AJ",Whitstable?,Whitstable?,CT5 2AJ,Int,Feb 2019,International,20
+21,Galah Wine,"Sturt Hwy,Ashton,Adelaide 5137",Ashton,Adelaide,5137,Aus,Feb 2019,Rest of Australia,21
+22,Leon Stolarski Fine Wines,"Nottingham Road,Hucknall,Nottingham NG15 7QE",Hucknall,Nottingham,NG15 7QE,Int,Feb 2019,International,22
+23,Liquor Barons?,"Cambridge Street,Wembley,Perth 6014",Wembley,Perth,6014,Aus,Feb 2019,Rest of Australia,23
+1,Zelas Wines,"Archway Road,London?,London? N6 5AX",London?,London?,N6 5AX,Int,Jan 2018,International,24
+2,Oz Wines,"Little St.,Richmond,Melbourne 3121",Richmond,Melbourne,3121,Vic,Jan 2018,Victoria,25
+3,London Wines,"Eco Avenue,The Strand,London SW1A 1LZ",The Strand,London,SW1A 1LZ,Int,Jan 2018,International,26
+4,The Sussex Wine Company,"Birdham Road,Chichester,West Sussex PO20 7DU",Chichester,West Sussex,PO20 7DU,Int,Jan 2018,International,27
+5,Merchant's Lair?,"Nepean Highway,Mentone,Melbourne 3194",Mentone,Melbourne,3194,Vic,Jan 2018,Victoria,28
+6,Australia Wines Direct,"High St.,Stourbridge,West Midlands DY8 1TA",Stourbridge,West Midlands,DY8 1TA,Int,Jan 2018,International,29
+7,Prestige Wines,"Lygon St.,Carlton,Melbourne 3053",Carlton,Melbourne,3053,Vic,Jan 2018,Victoria,30
+8,The Wine Club,"Po Box 184,Nth. Melb,Melbourne 3051",Nth. Melb,Melbourne,3051,Vic,Jan 2018,Victoria,31
+9,Justerini & Brooks,"St James's Street,London?,London? SW1A 1LZ",London?,London?,SW1A 1LZ,Int,Jan 2018,International,32
+10,La Cantina at Mercato,"Lower North East Rd,Campbelltown,Adelaide 5074",Campbelltown,Adelaide,5074,Aus,Jan 2018,Rest of Australia,33
+11,T & A Wines,"Station Way,Brandon,Suffolk? IP27 0BH",Brandon,Suffolk?,IP27 0BH,Int,Jan 2018,International,34
+12,Acme Wine Imports,"High St,Fullham,London SW1A 1LZ",Fullham,London,SW1A 1LZ,Int,Jan 2018,International,35
+13,The Wine Rep,"Smith St.,Collingwood,Melbourne 3066",Collingwood,Melbourne,3066,Vic,Jan 2018,Victoria,36
+14,Gangemis Fine Wine and Foods,"Hay Street,West Perth,Perth 6005",West Perth,Perth,6005,Aus,Jan 2018,Rest of Australia,37
+15,Aussie Boutique Wines,"Springvale Rd.,Springvale South,Melbourne 3172",Springvale South,Melbourne,3172,Vic,Jan 2018,Victoria,38
+16,Armadale Cellars?,"High Street,Armadale,Melbourne 3143",Armadale,Melbourne,3143,Vic,Jan 2018,Victoria,39
+17,Dande Upmarket Wines,"Pikkles St.,Dandenong,Melbourne 3175",Dandenong,Melbourne,3175,Vic,Jan 2018,Victoria,40
+18,Family Wines Direct?,"Miamup Road,Cowaramup,Perth 6284",Cowaramup,Perth,6284,Aus,Jan 2018,Rest of Australia,41
+19,Fine Wine Merchant?,"Mount Eliza Way,Mt Eliza,Melbourne 3930",Mt Eliza,Melbourne,3930,Vic,Jan 2018,Victoria,42
+1,Zelas Wines,"Archway Road,London?,London? N6 5AX",London?,London?,N6 5AX,Int,Dec 2019,International,43
+2,Oz Wines,"Little St.,Richmond,Melbourne 3121",Richmond,Melbourne,3121,Vic,Dec 2019,Victoria,44
+4,The Sussex Wine Company,"Birdham Road,Chichester,West Sussex PO20 7DU",Chichester,West Sussex,PO20 7DU,Int,Dec 2019,International,45
+5,Merchant's Lair?,"Nepean Highway,Mentone,Melbourne 3194",Mentone,Melbourne,3194,Vic,Dec 2019,Victoria,46
+6,Australia Wines Direct,"High St.,Stourbridge,West Midlands DY8 1TA",Stourbridge,West Midlands,DY8 1TA,Int,Dec 2019,International,47
+10,La Cantina at Mercato,"Lower North East Rd,Campbelltown,Adelaide 5074",Campbelltown,Adelaide,5074,Aus,Dec 2019,Rest of Australia,48
+11,T & A Wines,"Station Way,Brandon,Suffolk? IP27 0BH",Brandon,Suffolk?,IP27 0BH,Int,Dec 2019,International,49
+12,Acme Wine Imports,"High St,Fullham,London SW1A 1LZ",Fullham,London,SW1A 1LZ,Int,Dec 2019,International,50
+13,The Wine Rep,"Smith St.,Collingwood,Melbourne 3066",Collingwood,Melbourne,3066,Vic,Dec 2019,Victoria,51
+14,Gangemis Fine Wine and Foods,"Hay Street,West Perth,Perth 6005",West Perth,Perth,6005,Aus,Dec 2019,Rest of Australia,52
+15,Aussie Boutique Wines,"Springvale Rd.,Springvale South,Melbourne 3172",Springvale South,Melbourne,3172,Vic,Dec 2019,Victoria,53
+18,Family Wines Direct?,"Miamup Road,Cowaramup,Perth 6284",Cowaramup,Perth,6284,Aus,Dec 2019,Rest of Australia,54
+19,Fine Wine Merchant?,"Mount Eliza Way,Mt Eliza,Melbourne 3930",Mt Eliza,Melbourne,3930,Vic,Dec 2019,Victoria,55
+3,London Wines,"King St.,London?,London? SW1A 1LZ",London?,London?,SW1A 1LZ,Int,Dec 2019,International,56
+9,Justerini & Brooks,"The Strand,London?,London? SW1A 1LZ",London?,London?,SW1A 1LZ,Int,Dec 2019,International,57
+8,The Wine Club,"James St,Nth. Melb,Melbourne 3051",Nth. Melb,Melbourne,3051,Vic,Dec 2019,Victoria,58
+20,The Wine Room,"Tankerton Road,Whitstable?,Whitstable? CT5 2AJ",Whitstable?,Whitstable?,CT5 2AJ,Int,Dec 2019,International,59
+21,Galah Wine,"Sturt Hwy,Ashton,Adelaide 5137",Ashton,Adelaide,5137,Aus,Dec 2019,Rest of Australia,60
+22,Leon Stolarski Fine Wines,"Nottingham Road,Hucknall,Nottingham NG15 7QE",Hucknall,Nottingham,NG15 7QE,Int,Dec 2019,International,61
+23,Liquor Barons?,"Cambridge Street,Wembley,Perth 6014",Wembley,Perth,6014,Aus,Dec 2019,Rest of Australia,62
+24,Merricks Wine Merchants,"Frankston - Flinders Road,Merricks,Melbourne 3916",Merricks,Melbourne,3916,Vic,Dec 2019,Victoria,63
+16,Armadale Cellars?,"High Street Road,Armadale,Melbourne 3143",Armadale,Melbourne,3143,Vic,Dec 2019,Victoria,64
+17,Dande Upmarket Wines,"Princess Hwy.,Dandenong,Melbourne 3175",Dandenong,Melbourne,3175,Vic,Dec 2019,Victoria,65
+25,Cellar Link Australia?,"Orion Road,Lane Cove West,Sydney 2066",Lane Cove West,Sydney,2066,Aus,Dec 2019,Rest of Australia,66
+27,Montrachet Fine Wines,"Kennington Road,Waterloo,London? SE1 7PZ",Waterloo,London?,SE1 7PZ,Int,Dec 2019,International,67
+28,Richards and Richards Fine Wines,"Hebburn Drive,Brandlesholme,Lancs BL8 1EB",Brandlesholme,Lancs,BL8 1EB,Int,Dec 2019,International,68
+29,Rathdowne Cellars?,"Rathdowne Street,North Carlton,Melbourne 3054",North Carlton,Melbourne,3054,Vic,Dec 2019,Victoria,69
+7,Prestige Wines,"Barry St.,Carlton,Melbourne 3053",Carlton,Melbourne,3053,Vic,Dec 2019,Victoria,70
+26,United Cellars?,"James St,Woolloomooloo,Sydney 2011",Woolloomooloo,Sydney,2011,Aus,Dec 2019,Rest of Australia,71
